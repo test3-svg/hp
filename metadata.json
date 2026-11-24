@@ -1,0 +1,6 @@
+{
+  "name": "하늘결 — 실시간 날씨 예보",
+  "description": "실시간 기상 관측, 시간별 및 주간 예보, 대기질(미세먼지·초미세먼지) 정보를 제공하는 정밀 날씨 웹 애플리케이션입니다.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
